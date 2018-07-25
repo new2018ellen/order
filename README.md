@@ -31,10 +31,11 @@
 
 **效果图：**
 1、登录页面效果图
-![查看图片]（https://github.com/new2018ellen/project-img/blob/master/order/admin.png）
+![登录页](https://github.com/new2018ellen/project-img/blob/master/middleschool/index.png)
+![查看图片](https://github.com/new2018ellen/project-img/blob/master/order/admin.png)
 2、管理员主页面效果图
-![查看图片]（https://github.com/new2018ellen/project-img/blob/master/order/cashier.png）
+![查看图片](https://github.com/new2018ellen/project-img/blob/master/order/cashier.png)
 3、厨师操作页面效果图
-![查看图片]（https://github.com/new2018ellen/project-img/blob/master/order/cook.png）
-5、手机端点餐效果图
-![查看图片]（https://github.com/new2018ellen/project-img/blob/master/order/phoneIndex.jpg）
+![查看图片](https://github.com/new2018ellen/project-img/blob/master/order/cook.png)
+4、手机端点餐效果图
+![查看图片](https://github.com/new2018ellen/project-img/blob/master/order/phoneIndex.jpg)
