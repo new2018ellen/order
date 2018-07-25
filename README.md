@@ -31,17 +31,10 @@
 
 **效果图：**
 1、登录页面效果图
-
+[!查看图片]（https://github.com/new2018ellen/project-img/blob/master/order/admin.png）
 2、管理员主页面效果图
-
-
+[!查看图片]（https://github.com/new2018ellen/project-img/blob/master/order/cashier.png）
 3、厨师操作页面效果图
-
-
-4、收营员操作页面效果图
-
-
-5、打印订单效果图
-
-
-6、手机端点餐首页效果图、手机端菜品介绍效果图、手机端订单效果图
+[!查看图片]（https://github.com/new2018ellen/project-img/blob/master/order/cook.png）
+5、手机端点餐首页效果图、手机端菜品介绍效果图、手机端订单效果图
+[!查看图片]（https://github.com/new2018ellen/project-img/blob/master/order/order.png）（https://github.com/new2018ellen/project-img/blob/master/order/phoneIndex.jpg）
